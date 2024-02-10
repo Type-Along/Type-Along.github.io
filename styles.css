@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+*{
+    background-color: #FAF9F6;
+    font-family: 'Merriweather', serif;
+    color: #232023;
+}
+
+p{
+    background-color: transparent;
+}
+
+.title {
+    font-family: 'Balsamiq Sans', cursive;
+}
